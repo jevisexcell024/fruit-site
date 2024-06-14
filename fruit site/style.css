@@ -1,0 +1,139 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.navbar{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: hsl(50, 98%, 47%);
+}
+.navbar ul {
+display: flex;
+}
+.navbar ul li {
+    margin: 10px;
+    
+}
+.navbar ul li a{
+    color: rgb(12, 19, 26);
+    font-size: 1.2rem;
+}
+.logo a{
+    color: #000;
+    font-size: 23px;
+}
+.fruit{
+    background: url(img-fruit/bac.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text{
+    margin-left: 140px;
+    position: relative;
+    top: 170px;
+}
+.h3{
+    font-size: 28px;
+    color: #fff;
+}
+.fresh{
+    color: #fff;
+    font-size: 2.4rem;
+}   
+.line{
+    margin-top: 30px;
+    width: 130px;
+    height: 1px;
+    background: #000;
+}
+.dumy{
+    margin-top: 20px;
+    width: 495px;
+    color: #200000;
+}
+.del{
+    color: #310404;
+    font-size: 1.4rem;
+}
+.flex-fruit-text{
+    display: flex;
+    margin: 30px;
+    gap: 90px;
+}
+.info{
+    margin-top:10px;
+    width: 200px;
+}
+.white{
+    margin-top: 100px;
+    min-height: 70vh;
+}
+.process{
+    text-align: center;
+}
+.good{
+    font-size: 1.2rem;
+}
+.under{
+    width: 200px;
+    height: 1px;
+    background: orange;
+    position: relative;
+    left: 43%;
+    top: 20px;
+}
+.images-line{
+    margin-top: 40px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.img{
+    width: 400px;
+    height: 300px;
+    background: url(img-fruit/coco.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img-2{
+    width: 400px;
+    height: 300px;
+    background: url(img-fruit/mix.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img-3{
+    width: 400px;
+    height: 300px;
+    background: url(img-fruit/pine.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
